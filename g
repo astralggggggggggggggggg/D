@@ -699,7 +699,7 @@ function library:loader(props)
 		utility.new(
 			"UIGradient",
 			{
-				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 				Rotation = 90,
 				Parent = button_color
 			}
@@ -1606,7 +1606,7 @@ function sections:toggle(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -1723,7 +1723,7 @@ function sections:button(props)
 	local gradient = utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -1844,7 +1844,7 @@ function sections:slider(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -1865,7 +1865,7 @@ function sections:slider(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = slide
 		}
@@ -2110,7 +2110,7 @@ function sections:dropdown(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -2390,7 +2390,7 @@ function sections:buttonbox(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -2665,7 +2665,7 @@ function sections:multibox(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -3017,7 +3017,7 @@ function sections:textbox(props)
 	local gradient = utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -3227,7 +3227,7 @@ function sections:keybind(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = color
 		}
@@ -3470,7 +3470,7 @@ function sections:colorpicker(props)
 	utility.new(
 		"UIGradient",
 		{
-			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+			Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 			Rotation = 90,
 			Parent = cpcolor
 		}
@@ -3765,7 +3765,7 @@ function sections:colorpicker(props)
 		utility.new(
 			"UIGradient",
 			{
-				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 				Rotation = 90,
 				Parent = color2
 			}
@@ -4359,7 +4359,7 @@ function sections:configloader(props)
 		utility.new(
 			"UIGradient",
 			{
-				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 				Rotation = 90,
 				Parent = button_color
 			}
@@ -4442,7 +4442,7 @@ function sections:configloader(props)
 		utility.new(
 			"UIGradient",
 			{
-				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(199, 191, 204)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
+				Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 58, 235)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))},
 				Rotation = 90,
 				Parent = color2
 			}
